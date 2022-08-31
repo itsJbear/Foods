@@ -323,7 +323,7 @@ transition: transform 0.5s, box-shadow 0.5s;
 
 .food-description{
     position: absolute;
-    bottom: 3vw;
+    bottom: 5vw;
     left: 2rem;
     width: 70%;
     font-size: 1.5rem;
@@ -343,6 +343,8 @@ transition: transform 0.5s, box-shadow 0.5s;
 }
 
 /*end of section 3*/
+
+
 /*section 4*/
 .section-4 {
     width: 100%;
@@ -499,3 +501,4 @@ transition: transform 0.5s, box-shadow 0.5s;
     margin: 0 0.7rem;
  }
 }
+/*end of responsive*/
